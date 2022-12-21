@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mysticole928
-- 
+👋 Hi, I’m @mysticole928
+
 - 🌱 I’m currently learning JavaScript and cybersecurity.
 - 👀 I've been relatively disappointed in the self-paced tools I've found to learn both.
 - ❤️ I wish Python (3) was around when I started in IT 30-odd years ago.
